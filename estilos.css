@@ -54,7 +54,8 @@ body {
 		}
 
 		.img-campanha {
-	border: 10px solid #c3c3ae;
+	border: 3px solid;
+	
 	
 }
 
@@ -71,3 +72,5 @@ body {
 			font-size: 1.2em;
 
 		}		
+
+		
