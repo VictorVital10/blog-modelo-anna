@@ -1,4 +1,4 @@
-# Modelo Ana Bella - Website para uma modelo.
+# Ana Bella - Website para uma modelo.
 
 Projeto criado em outubro/2023 para praticar conhecimentos em HTML e CSS em conjunto com o curso de desenvolvimento web na Udemy.
 
